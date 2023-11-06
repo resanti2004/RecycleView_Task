@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RecycleView_Task</string>
+    <string name="product_unilever">tirto.id - Sejumlah produk asal Israel mulai diboikot di seluruh dunia, seiring semakin gencarnya serangan udara pasukan IDF ke wilayah Jalur Gaza sejak perang melawan Hamas meletus pada Sabtu (7/10/2023).
+
+        Perang Israel-Hamas sudah terjadi selama lebih dari 2 pekan terakhir dan sudah merenggut ribuan nyawa dari kedua belah pihak.
+
+        Menurut laporan PBB hingga Senin (23/10), serangan udara Pasukan Pertahanan Israel (IDF atau Israel Defence Forces) telah menelan korban jiwa sebanyak lebih dari 5 ribu warga Palestina, 2 ribu di antaranya anak-anak, serta melukai lebih dari 12 ribu orang.
+        
+        Tak hanya itu, Israel juga semakin meningkatkan blokadenya atas Gaza dengan memutus pasokan makanan, air, listrik, dan bahan bakar. Puluhan ribu rumah dilaporkan hancur dan sekitar 1.400 orang, termasuk 800 anak-anak, masih terjebak di bawah reruntuhan puing-puing bangunan.
+        Sementara 1.300 warga Israel menjadi korban meninggal akibat serangan pasukan Hamas.
+    Apa Saja Produk Israel dan Kenapa Diboikot? Gerakan boikot produk Israel ini sudah ada dalam program BDS (Boycott, Divestment, Sanctions) atau "Boikot, Divestasi, Sanksi" yang membuat seruan untuk melakukan boikot sejumlah produk yang ditengarai berasal dari Israel. BDS merupakan gerakan Palestina untuk kebebasan, keadilan, dan kesetaraan. Mereka menjunjung tinggi prinsip warga Palestina berhak atas hak-hak yang sama dengan umat manusia lainnya. Sejak didirikan pada 2005, BDS menjadi gerakan global yang diisi para serikat pekerja, asosiasi akademis, gereja, dan gerakan akar rumput di seluruh dunia. Mereka mengklaim telah memberikan dampak besar dan efektif dalam mencari dukungan internasional untuk melawan praktik apartheid dan kolonialisme pemukim Israel. BDS Palestina lantas menyerukan aksi pemboikotan terhadap perusahaan-perusahaan Israel dan internasional yang dinilai terlibat dalam pelanggaran hak-hak Palestina. Selain aksi boikot oleh para konsumen, pengusaha ritel di seluruh dunia juga diharapkan berhenti menjual produk-produk perusahaan yang mengambil untung dari Israel.
+    </string>
+    <string name="product_kfc">RecycleView_Task</string>
+    <string name="product_mcd">RecycleView_Task</string>
+    <string name="product_pg">RecycleView_Task</string>
+    <string name="product_hp">RecycleView_Task</string>
+</resources>
